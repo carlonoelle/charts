@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  kube-job-cleanup-operator:
+  - apiVersion: v1
+    appVersion: 0.6.0
+    created: "2019-10-05T22:23:04.301304+02:00"
+    description: Kubernetes Operator to automatically delete completed Jobs and their
+      Pods by lwolf
+    digest: 40145addac99bff6a86e9fa83c05dcd4e409caa44863fc15114d79f2c1765b53
+    name: kube-job-cleanup-operator
+    urls:
+    - https://carlonoelle.github.io/charts/kube-job-cleanup-operator-0.1.0.tgz
+    version: 0.1.0
+generated: "2019-10-05T22:23:04.299897+02:00"
